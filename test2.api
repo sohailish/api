@@ -19,7 +19,7 @@
       "time":"11:00 PM",
       "date":"01/10/20",
       "position":"Web App",
-      "vacancy": "2"
+      "vacancy": "4"
    },
    {
       "id":3,
@@ -30,7 +30,7 @@
       "time":"08:30 PM",
       "date":"01/11/20",
       "position":"IOS Developer",
-      "vacancy": "2"
+      "vacancy": "1"
    },
    {
       "id":4,
@@ -52,7 +52,7 @@
       "time":"10:10 AM",
       "date":"11/11/20",
       "position":"IOS Developer",
-      "vacancy": "2"
+      "vacancy": "20"
    },
    {
       "id":6,
@@ -63,7 +63,7 @@
       "time":"01:10",
       "date":"01/11/20",
       "position":"Flutter Developer",
-      "vacancy": "2"
+      "vacancy": "10"
    },
    {
       "id":7,
@@ -74,7 +74,7 @@
       "time":"10:05 PM",
       "date":"01/10/20",
       "position":"Flutter Developer",
-      "vacancy": "2"
+      "vacancy": "9"
    },
    {
       "id":8,
@@ -96,7 +96,7 @@
       "time":"08:30 PM",
       "date":"01/11/20",
       "position":"IOS Developer",
-      "vacancy": "2"
+      "vacancy": "3"
    },
    {
       "id":10,
@@ -118,7 +118,7 @@
       "time":"10:10 AM",
       "date":"11/11/20",
       "position":"IOS Developer",
-      "vacancy": "2"
+      "vacancy": "1"
    },
    {
       "id":12,
