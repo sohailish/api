@@ -1,1 +1,22 @@
-
+[
+   {
+      "type":"Professional",
+      "name":"Jahid Hasan",
+      "info":"Jr. Flutter Developer"
+   },
+   {
+      "type":"Professional",
+      "name":"Shakil Ahmed",
+      "info":"Software Engineer"
+   },
+   {
+      "type":"Company",
+      "name":"Ishraak Solutions Limited",
+      "info":"Niketon, Gulshan-1, Dhaka"
+   },  
+   {
+      "type":"Company",
+      "name":"TigerIT",
+      "info":"Banani, Dhaka"
+   }
+]
